@@ -1,0 +1,3 @@
+/home/uuuser/Desktop/Projects/Strassen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/uuuser/Desktop/Projects/Strassen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/uuuser/Desktop/Projects/Strassen/cmake-build-debug/CMakeFiles/Strassen.dir
